@@ -9,8 +9,7 @@
 .INPUTS
 NONE
 .OUTPUTS
-Outputs text and\or alias to replace a line of text in a file. (Good for when you need to push an app to customers that need different entries in configuration-files that requires user input.
-uggiez)
+Outputs text and\or alias to replace a line of text in a file. (Good for when you need to push an app to customers that need different entries in configuration-files that requires user input.)
 .NOTES
    Version:        0.1
    Author:         Remi Andrè Lilleskare
